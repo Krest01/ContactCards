@@ -1,10 +1,13 @@
 const Index = () => {
   return (
     <p id={"zero-state"}>
-      This is a demo for React Router.
+      Contact Cards
       <br />
       Check out{" "}
-      <a href={"https://reactrouter.com"}>the docs at reactrouter.com</a>.
+      <a href={"https://github.com/Krest01"} target={"_blank"}>
+        my GitHub
+      </a>
+      .
     </p>
   );
 };
